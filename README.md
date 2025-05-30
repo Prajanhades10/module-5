@@ -22,7 +22,8 @@ int main() {
 	scanf("%d", &y);
 	area = *ptr1 * (*ptr);
 	printf("Area of the rectangle: %d\n", area);
-	return 0;
+
+return 0;
 }
 
 ```
